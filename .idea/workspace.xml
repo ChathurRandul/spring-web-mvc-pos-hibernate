@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="spring-web-mvc-pos:war2" />
+      <artifact name="spring-web-mvc-pos:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa427204-98ee-4230-b862-2622e029e91c" name="Default Changelist" comment="" />
+    <list default="true" id="aa427204-98ee-4230-b862-2622e029e91c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +174,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583401169463</updated>
       <workItem from="1583401171681" duration="5034000" />
-      <workItem from="1583415419300" duration="2782000" />
+      <workItem from="1583415419300" duration="3329000" />
     </task>
     <servers />
   </component>
